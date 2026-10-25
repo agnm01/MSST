@@ -1,0 +1,6 @@
+{
+  "name": "Mișcarea Sportivă - Asociația Sportivă a Studenților Transilvăneni",
+  "description": "Site-ul oficial de prezentare al Asociației Mișcarea Sportivă a Studenților Transilvăneni (Cluj-Napoca): comunitate, competiții universitare, calendar de activități și voluntariat sportiv.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
